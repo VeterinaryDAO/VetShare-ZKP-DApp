@@ -1,7 +1,7 @@
 # Main Contracts
 
 ## Overview
-The Main Contracts are responsible for the core logic of the VetShare ZKP DApp. These contracts handle the selective data disclosure using Zero-Knowledge Proofs (ZKP) to ensure that veterinary data is shared securely and privately.
+The Main Contracts are responsible for the core logic of the VetShare ZKP DApp. These contracts handle the selective data disclosure using Zero-Knowledge Proofs (ZKP) to ensure that veterinary data is shared securely and privately. They interact with external data layers and middleware contracts to provide a seamless data-sharing experience across the DApp.
 
 ## Features
 - **Data Encryption**: Securely encrypt veterinary data for sharing.
