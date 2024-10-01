@@ -16,7 +16,7 @@ To run the tests:
    npm test
 
 ## Planned Enhancements
-- **Performance Benchmarks**: Add performance-related tests for contract efficiency.
-- **Advanced Security Tests**: Include fuzzing and formal verification for enhanced security.
+- **Performance Benchmarks**: Add performance-related tests for contract efficiency, particularly around data encryption and selective disclosure with ZKP.
+- **Advanced Security Tests**: Include fuzzing, formal verification, and additional vulnerability scans for enhanced security. Tests will ensure compliance with the security standards expected for the Midnight Network integration.
 
 Contributions and feedback are welcome! Please use issues and pull requests for discussions.
